@@ -143,7 +143,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.2.47</version>
+      <version>1.2.83</version>
     </dependency>
     <!-- 响应JSon数据类型的视图信息 end-->
 
